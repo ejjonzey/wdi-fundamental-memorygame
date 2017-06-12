@@ -28,5 +28,6 @@
 <p class="copyright">Copyright 2017</p>
 <p class="message">Created by doing work; <span class="Eric Jonelunas">GA</span></p>
 </footer>
+<script src="main.js"></script>
 </body>
 </html>
